@@ -1,3 +1,6 @@
-.first line{
-background-color: aqua;
+body{
+    .header
+    {
+        background-color: purple;
+    }
 }
